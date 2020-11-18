@@ -8,3 +8,4 @@ alias cpall='parallel-scp -H "node1 node2 node3"'
 alias echoall='doall echo Hello World'
 alias cp-proj='cpall -r ${PROJ_ROOT} ${PROJ_ROOT}'
 
+source "$PROJ_ROOT/hadoop.config.sh"
