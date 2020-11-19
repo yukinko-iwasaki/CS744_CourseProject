@@ -13,6 +13,7 @@ doall "which cmake"
 doall 'python3 -c "import xgboost; print(xgboost.__version__)"'
 
 # Startup hadoop and yarn
+# See also: https://www.linode.com/docs/guides/how-to-install-and-set-up-hadoop-cluster/
 startall
 
 # Only start yarn
