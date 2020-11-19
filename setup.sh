@@ -12,13 +12,8 @@ doall "cmake --version"
 doall "which cmake"
 doall 'python3 -c "import xgboost; print(xgboost.__version__)"'
 
-# Startup hadoop
+# Startup hadoop and yarn
+startall
 
-# Startup yarn
-
-# YARN_RESOURCEMANAGER_USER=root HADOOP_SECURE_DN_USER=yarn YARN_NODEMANAGER_USER=root RMHOSTS="node1 node2 node3" 
-# YARN_RESOURCEMANAGER_USER=root HADOOP_SECURE_DN_USER=yarn YARN_NODEMANAGER_USER=root RMHOSTS="node1 node2 node3" 
-alias startyarn='${HADOOP_EXEC_ROOT}/start-yarn.sh'
-alias stopyarn='${HADOOP_EXEC_ROOT}/stop-yarn.sh'
-alias startall='${HADOOP_EXEC_ROOT}/start-all.sh'
-alias stopall='${HADOOP_EXEC_ROOT}/stop-all.sh'
+# Only start yarn
+# startyarn
