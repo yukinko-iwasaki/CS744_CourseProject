@@ -1,0 +1,74 @@
+sketch_eps: 0.0001
+[0]	eval-rmse:0.404951	train-rmse:0.405228
+[1]	eval-rmse:0.348961	train-rmse:0.349518
+[2]	eval-rmse:0.31783	train-rmse:0.318567
+[3]	eval-rmse:0.301343	train-rmse:0.302236
+[4]	eval-rmse:0.292821	train-rmse:0.293813
+[5]	eval-rmse:0.288413	train-rmse:0.289432
+[6]	eval-rmse:0.286215	train-rmse:0.28727
+[7]	eval-rmse:0.28508	train-rmse:0.286104
+[8]	eval-rmse:0.284492	train-rmse:0.285466
+[9]	eval-rmse:0.284152	train-rmse:0.285049
+8.360313177108765
+sketch_eps: 0.001
+[0]	eval-rmse:0.404949	train-rmse:0.405229
+[1]	eval-rmse:0.348958	train-rmse:0.349518
+[2]	eval-rmse:0.317827	train-rmse:0.318567
+[3]	eval-rmse:0.30134	train-rmse:0.302237
+[4]	eval-rmse:0.292819	train-rmse:0.293818
+[5]	eval-rmse:0.28841	train-rmse:0.289434
+[6]	eval-rmse:0.286213	train-rmse:0.287271
+[7]	eval-rmse:0.285075	train-rmse:0.286106
+[8]	eval-rmse:0.284479	train-rmse:0.285466
+[9]	eval-rmse:0.284138	train-rmse:0.285048
+7.394618511199951
+sketch_eps: 0.01
+[0]	eval-rmse:0.40495	train-rmse:0.405246
+[1]	eval-rmse:0.348958	train-rmse:0.349524
+[2]	eval-rmse:0.317832	train-rmse:0.318575
+[3]	eval-rmse:0.30135	train-rmse:0.302254
+[4]	eval-rmse:0.292866	train-rmse:0.293885
+[5]	eval-rmse:0.288408	train-rmse:0.28943
+[6]	eval-rmse:0.286169	train-rmse:0.287244
+[7]	eval-rmse:0.284981	train-rmse:0.286035
+[8]	eval-rmse:0.284398	train-rmse:0.285409
+[9]	eval-rmse:0.284058	train-rmse:0.28502
+7.235480785369873
+sketch_eps: 0.1
+[0]	eval-rmse:0.404967	train-rmse:0.405268
+[1]	eval-rmse:0.348994	train-rmse:0.349565
+[2]	eval-rmse:0.3179	train-rmse:0.318661
+[3]	eval-rmse:0.301396	train-rmse:0.302345
+[4]	eval-rmse:0.292878	train-rmse:0.29392
+[5]	eval-rmse:0.288569	train-rmse:0.28964
+[6]	eval-rmse:0.286373	train-rmse:0.28746
+[7]	eval-rmse:0.28521	train-rmse:0.286265
+[8]	eval-rmse:0.284602	train-rmse:0.285642
+[9]	eval-rmse:0.284266	train-rmse:0.285277
+7.281455755233765
+sketch_eps: 0.5
+[0]	eval-rmse:0.405731	train-rmse:0.405975
+[1]	eval-rmse:0.350326	train-rmse:0.350762
+[2]	eval-rmse:0.319605	train-rmse:0.320182
+[3]	eval-rmse:0.303346	train-rmse:0.304089
+[4]	eval-rmse:0.294991	train-rmse:0.295831
+[5]	eval-rmse:0.290767	train-rmse:0.291634
+[6]	eval-rmse:0.288613	train-rmse:0.289557
+[7]	eval-rmse:0.287489	train-rmse:0.288427
+[8]	eval-rmse:0.286948	train-rmse:0.287883
+[9]	eval-rmse:0.286644	train-rmse:0.287562
+7.436267375946045
+sketch_eps: 0.8
+[0]	eval-rmse:0.406598	train-rmse:0.406826
+[1]	eval-rmse:0.351838	train-rmse:0.3523
+[2]	eval-rmse:0.321569	train-rmse:0.322196
+[3]	eval-rmse:0.305589	train-rmse:0.306365
+[4]	eval-rmse:0.297401	train-rmse:0.298262
+[5]	eval-rmse:0.293285	train-rmse:0.294198
+[6]	eval-rmse:0.291233	train-rmse:0.292193
+[7]	eval-rmse:0.290212	train-rmse:0.29117
+[8]	eval-rmse:0.28969	train-rmse:0.290666
+[9]	eval-rmse:0.289439	train-rmse:0.290403
+7.5918004512786865
+
+[202]

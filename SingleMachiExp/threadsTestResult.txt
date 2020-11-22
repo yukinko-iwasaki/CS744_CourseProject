@@ -1,0 +1,111 @@
+number of threads: 1
+[0]	eval-rmse:0.404933	train-rmse:0.405663
+[1]	eval-rmse:0.349017	train-rmse:0.349312
+[2]	eval-rmse:0.317808	train-rmse:0.318833
+[3]	eval-rmse:0.301347	train-rmse:0.302435
+[4]	eval-rmse:0.292822	train-rmse:0.293927
+[5]	eval-rmse:0.288438	train-rmse:0.289509
+[6]	eval-rmse:0.286234	train-rmse:0.287224
+[7]	eval-rmse:0.285084	train-rmse:0.286053
+[8]	eval-rmse:0.284496	train-rmse:0.285422
+[9]	eval-rmse:0.284142	train-rmse:0.284955
+39.62813115119934
+number of threads: 2
+[0]	eval-rmse:0.404928	train-rmse:0.405206
+[1]	eval-rmse:0.34897	train-rmse:0.349477
+[2]	eval-rmse:0.3178	train-rmse:0.318497
+[3]	eval-rmse:0.30134	train-rmse:0.302195
+[4]	eval-rmse:0.292829	train-rmse:0.293859
+[5]	eval-rmse:0.288406	train-rmse:0.289466
+[6]	eval-rmse:0.286225	train-rmse:0.287273
+[7]	eval-rmse:0.285086	train-rmse:0.28609
+[8]	eval-rmse:0.284494	train-rmse:0.285442
+[9]	eval-rmse:0.284156	train-rmse:0.285016
+18.765334367752075
+number of threads: 3
+[0]	eval-rmse:0.404929	train-rmse:0.405229
+[1]	eval-rmse:0.348946	train-rmse:0.349587
+[2]	eval-rmse:0.317816	train-rmse:0.318519
+[3]	eval-rmse:0.30134	train-rmse:0.302222
+[4]	eval-rmse:0.292832	train-rmse:0.293824
+[5]	eval-rmse:0.288409	train-rmse:0.28947
+[6]	eval-rmse:0.286218	train-rmse:0.287278
+[7]	eval-rmse:0.285083	train-rmse:0.2861
+[8]	eval-rmse:0.284494	train-rmse:0.285461
+[9]	eval-rmse:0.284155	train-rmse:0.285028
+13.090933322906494
+number of threads: 4
+[0]	eval-rmse:0.404932	train-rmse:0.405236
+[1]	eval-rmse:0.348949	train-rmse:0.349578
+[2]	eval-rmse:0.317836	train-rmse:0.318573
+[3]	eval-rmse:0.301342	train-rmse:0.302244
+[4]	eval-rmse:0.292832	train-rmse:0.293805
+[5]	eval-rmse:0.288412	train-rmse:0.289465
+[6]	eval-rmse:0.286216	train-rmse:0.287279
+[7]	eval-rmse:0.285081	train-rmse:0.286104
+[8]	eval-rmse:0.284494	train-rmse:0.285467
+[9]	eval-rmse:0.284154	train-rmse:0.285037
+9.826925039291382
+number of threads: 5
+[0]	eval-rmse:0.404938	train-rmse:0.405232
+[1]	eval-rmse:0.348953	train-rmse:0.349568
+[2]	eval-rmse:0.317837	train-rmse:0.318579
+[3]	eval-rmse:0.301342	train-rmse:0.302241
+[4]	eval-rmse:0.292829	train-rmse:0.293807
+[5]	eval-rmse:0.288413	train-rmse:0.289453
+[6]	eval-rmse:0.286217	train-rmse:0.287277
+[7]	eval-rmse:0.285081	train-rmse:0.286105
+[8]	eval-rmse:0.284495	train-rmse:0.285467
+[9]	eval-rmse:0.284155	train-rmse:0.285042
+8.019933700561523
+number of threads: 6
+[0]	eval-rmse:0.404945	train-rmse:0.405229
+[1]	eval-rmse:0.348954	train-rmse:0.349556
+[2]	eval-rmse:0.317835	train-rmse:0.318574
+[3]	eval-rmse:0.301343	train-rmse:0.302239
+[4]	eval-rmse:0.292827	train-rmse:0.29381
+[5]	eval-rmse:0.288416	train-rmse:0.28944
+[6]	eval-rmse:0.286218	train-rmse:0.287275
+[7]	eval-rmse:0.285082	train-rmse:0.286106
+[8]	eval-rmse:0.284494	train-rmse:0.285466
+[9]	eval-rmse:0.284155	train-rmse:0.285047
+6.726888179779053
+number of threads: 7
+[0]	eval-rmse:0.404949	train-rmse:0.405228
+[1]	eval-rmse:0.348956	train-rmse:0.349543
+[2]	eval-rmse:0.317832	train-rmse:0.31857
+[3]	eval-rmse:0.301342	train-rmse:0.302236
+[4]	eval-rmse:0.292824	train-rmse:0.293812
+[5]	eval-rmse:0.288417	train-rmse:0.28943
+[6]	eval-rmse:0.286219	train-rmse:0.287273
+[7]	eval-rmse:0.285082	train-rmse:0.286106
+[8]	eval-rmse:0.284494	train-rmse:0.285466
+[9]	eval-rmse:0.284155	train-rmse:0.28505
+5.93349552154541
+number of threads: 8
+[0]	eval-rmse:0.404949	train-rmse:0.405228
+[1]	eval-rmse:0.348958	train-rmse:0.34953
+[2]	eval-rmse:0.31783	train-rmse:0.318565
+[3]	eval-rmse:0.301343	train-rmse:0.302235
+[4]	eval-rmse:0.292824	train-rmse:0.293813
+[5]	eval-rmse:0.288416	train-rmse:0.289431
+[6]	eval-rmse:0.286219	train-rmse:0.287271
+[7]	eval-rmse:0.285082	train-rmse:0.286105
+[8]	eval-rmse:0.284494	train-rmse:0.285466
+[9]	eval-rmse:0.284155	train-rmse:0.28505
+5.32813572883606
+number of threads: 9
+[0]	eval-rmse:0.404949	train-rmse:0.405228
+[1]	eval-rmse:0.34896	train-rmse:0.349518
+[2]	eval-rmse:0.317829	train-rmse:0.318567
+[3]	eval-rmse:0.301344	train-rmse:0.302236
+[4]	eval-rmse:0.292825	train-rmse:0.293813
+[5]	eval-rmse:0.288416	train-rmse:0.289432
+[6]	eval-rmse:0.286219	train-rmse:0.28727
+[7]	eval-rmse:0.285082	train-rmse:0.286104
+[8]	eval-rmse:0.284494	train-rmse:0.285466
+[9]	eval-rmse:0.284155	train-rmse:0.285049
+5.8373143672943115
+
+[201]
+13456728
